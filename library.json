@@ -1,0 +1,16 @@
+{
+  "name": "Canbus",
+  "keywords": "CAN Bus, canbus, mcp2515, MCP-2515",
+  "description": "Library to use the SK Pang CAN-BUS Shield",
+  "authors":
+  {
+    "name": "SK Pang",
+    "url": "https://www.sparkfun.com/products/13262"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/aaronmitti/SparkFun_CAN-Bus_Arduino_Library.git"
+  },
+  "frameworks": "arduino"
+}
